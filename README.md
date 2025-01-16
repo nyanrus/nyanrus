@@ -1,7 +1,11 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+### Hello there! 👋
 
-### Hi there 👋
+I'm currently working on [noraneko](https://github.com/nyanrus/noraneko) !
 
+Please feel free to ask me about my projects!
+
+I'm native with Korean and Japanese.  
+Also English welcome!
 <!--
 **nyanrus/nyanrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
