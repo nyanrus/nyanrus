@@ -6,6 +6,8 @@ Please feel free to ask me about my projects!
 
 I'm native with Korean and Japanese.  
 Also English welcome!
+
+[Buy me a milk tea](https://buymeacoffee.com/nyanrus) 🧋
 <!--
 **nyanrus/nyanrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
